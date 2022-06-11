@@ -1,5 +1,5 @@
 # m10c theme
-#main author --https://github.com/vaga/hugo-theme-m10c
+
 ![Intro](https://github.com/vaga/hugo-theme-m10c/blob/master/images/cover.png)
 
 A Hugo minimalistic theme for bloggers
@@ -14,7 +14,7 @@ Main features:
 - Customizable social media links on sidebar
 - Optimized for performance 100/100 on Lighthouse
 - All feather icons included
-
+## Credit --https://github.com/vaga/hugo-theme-m10c
 ## Getting started
 
 ### Installation
